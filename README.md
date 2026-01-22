@@ -16,8 +16,8 @@ A React application using Vite and React Router for managing file uploads and br
 1. Clone the repository:
 
 ```bash
-git clone https://your-frontend-repo-url.git
-cd your-frontend-folder
+git git@github.com:bode-locke/anchorless-front-end-test.git
+cd anchorless-front-end-test
 ```
 
 2. Install dependencies
