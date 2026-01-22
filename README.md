@@ -1,5 +1,7 @@
 # React Frontend for File Management
-Technical test for the company Anchorless. 
+
+Technical test for the company Anchorless.
+
 ---
 
 ## Requirements
