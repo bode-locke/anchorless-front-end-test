@@ -1,7 +1,5 @@
 # React Frontend for File Management
-
-A React application using Vite and React Router for managing file uploads and browsing files by category.
-
+Technical test for the company Anchorless. 
 ---
 
 ## Requirements
